@@ -1,11 +1,12 @@
 {
   "name": "monochrome-generator",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A simple package to generate monochrome colors for a given color. Use these colors for gradients, charts, or any design element requiring a consistent color scheme.",
   "main": "index.js",
   "keywords": [
     "monochrome",
+    "monochrome-colors",
     "colors",
     "gradient"
   ],

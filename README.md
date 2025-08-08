@@ -12,7 +12,6 @@ npm install monochrome-generator
 ```bash
 import monochromeGenerator from 'monochrome-generator';
 
-const shades = monochromeGenerator('rgb(100, 100, 100)', 5, 'lighten', 10);
+const shades = monochromeGenerator('rgb(100, 100, 100)', 10);
 console.log(shades);
-
-
+```
